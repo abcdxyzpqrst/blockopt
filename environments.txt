@@ -1,0 +1,5 @@
+##### Environments #####
+	PyTorch version > 1.0
+	We need a batch mode of SVD, so one should install "torch-batch-svd" open source library which is included in this zip file.
+
+We use the official PyTorch model repository and example code for ImageNet.

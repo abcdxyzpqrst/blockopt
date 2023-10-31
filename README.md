@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10034281.svg)](https://doi.org/10.5281/zenodo.10034281)
+
 # AdaBlock: SGD with Practical Block Diagonal Matrix Adaptation for Deep Learning (AISTATS 2022)
 This repository contains the official implementations of the paper "AdaBlock: SGD with Practical Block Diagonal Matrix Adaptation for Deep Learning" publish in AISTATS 2022.
 + Jihun Yun (KAIST), Aurélie C. Lozano (IBM T.J. Watson Research Center), Eunho Yang (KAIST, AITRICS)
